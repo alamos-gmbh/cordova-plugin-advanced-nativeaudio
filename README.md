@@ -5,6 +5,7 @@ Cordova / PhoneGap 3.5+ extension for Native Audio playback, aimed at HTML5 gami
 ## Original Plugin
 
 This Plugin is forked by [this Fork](https://github.com/wizpanda/cordova-plugin-nativeaudio) and has some added features. 
+In this fork we changed the audio path in android to get it running with capactiro
 
 ## Contents
 
